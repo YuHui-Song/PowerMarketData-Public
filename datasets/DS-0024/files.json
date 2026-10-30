@@ -1,0 +1,115 @@
+{
+  "dataset_id": "DS-0024",
+  "upstream": {
+    "repository": "https://github.com/GridMod/RTS-GMLC",
+    "version": "v0.2.3",
+    "commit": "3ece0d37"
+  },
+  "approval_id": "PA-20261029-01",
+  "file_count": 17,
+  "total_bytes": 1075026,
+  "files": [
+    {
+      "file_id": "DS-0024-V0001-F0001",
+      "path": "v0.2.3/README.md",
+      "size_bytes": 4778,
+      "sha256": "9643002ac6b0d0eb85351c8477a3155ec082fd0583a17fb20b9756bc17ecba63"
+    },
+    {
+      "file_id": "DS-0024-V0001-F0002",
+      "path": "v0.2.3/RTS-GMLC_updates.md",
+      "size_bytes": 7625,
+      "sha256": "825d4e8de3e8e2e1daf5e4fa56f56c4b947d8446c4f165a778ffbc1cd2d25f70"
+    },
+    {
+      "file_id": "DS-0024-V0001-F0003",
+      "path": "v0.2.3/RTS_Data/README.md",
+      "size_bytes": 215,
+      "sha256": "d9b1520688d1296fbb460f85b2aeb0827e248e2860503a2cb52f2238d0e7c94c"
+    },
+    {
+      "file_id": "DS-0024-V0001-F0004",
+      "path": "v0.2.3/RTS_Data/SourceData/HR_data/Final_Fits.csv",
+      "size_bytes": 842375,
+      "sha256": "feac74d539ea7152ec5840fe45a47a734df4ca5f6c07ab400eaba95dabbd1f27"
+    },
+    {
+      "file_id": "DS-0024-V0001-F0005",
+      "path": "v0.2.3/RTS_Data/SourceData/HR_data/README.md",
+      "size_bytes": 850,
+      "sha256": "db6965c1e2789306cda88c9b62801ecafb019a6a549932b76e4d64cd6043b0d1"
+    },
+    {
+      "file_id": "DS-0024-V0001-F0006",
+      "path": "v0.2.3/RTS_Data/SourceData/HR_data/RTS_average_HR.png",
+      "size_bytes": 55330,
+      "sha256": "63983675417eb4bfb43db386b52c6a932fe612eab0c761e481b7ecfe1fdb461c"
+    },
+    {
+      "file_id": "DS-0024-V0001-F0007",
+      "path": "v0.2.3/RTS_Data/SourceData/HR_data/RTS_incremental_HR.png",
+      "size_bytes": 58791,
+      "sha256": "bf72b5cec1563aaf8707384c8dc54425d2519831220dbd3a173f23195609067f"
+    },
+    {
+      "file_id": "DS-0024-V0001-F0008",
+      "path": "v0.2.3/RTS_Data/SourceData/HR_data/gen_oldHRs.csv",
+      "size_bytes": 10484,
+      "sha256": "ed44e051feb15a8ee54c08e1b5e03c0c4a4a459d7546d2dfd56702354a45877d"
+    },
+    {
+      "file_id": "DS-0024-V0001-F0009",
+      "path": "v0.2.3/RTS_Data/SourceData/README.md",
+      "size_bytes": 16598,
+      "sha256": "f0d8963335862faf6608144bf81aa8027241d669dd52aba0960501f374ef9ae3"
+    },
+    {
+      "file_id": "DS-0024-V0001-F0010",
+      "path": "v0.2.3/RTS_Data/SourceData/branch.csv",
+      "size_bytes": 7142,
+      "sha256": "e92d16d13b1c5d2899f7871c0c99c3eb94605528beef157bf9e1ccbcffe5ef4e"
+    },
+    {
+      "file_id": "DS-0024-V0001-F0011",
+      "path": "v0.2.3/RTS_Data/SourceData/bus.csv",
+      "size_bytes": 7003,
+      "sha256": "cec3f776222812d43eaeaf7ac85b577719dc565f354a04e120c12a647ddb710e"
+    },
+    {
+      "file_id": "DS-0024-V0001-F0012",
+      "path": "v0.2.3/RTS_Data/SourceData/dc_branch.csv",
+      "size_bytes": 1355,
+      "sha256": "2b7d81cd1245294e15f0a202882a1375be34723e89c448009d3fc957ce457be8"
+    },
+    {
+      "file_id": "DS-0024-V0001-F0013",
+      "path": "v0.2.3/RTS_Data/SourceData/gen.csv",
+      "size_bytes": 32451,
+      "sha256": "988466f29132b73739de60c9204dd4a2a9ceb0adf572e5966c086611272f4068"
+    },
+    {
+      "file_id": "DS-0024-V0001-F0014",
+      "path": "v0.2.3/RTS_Data/SourceData/reserves.csv",
+      "size_bytes": 803,
+      "sha256": "3c0d388631b93fe37bc617dc3f9512950927ae1b0a0e878482e90137106d0a28"
+    },
+    {
+      "file_id": "DS-0024-V0001-F0015",
+      "path": "v0.2.3/RTS_Data/SourceData/simulation_objects.csv",
+      "size_bytes": 662,
+      "sha256": "596b4607da6eb7faf99e2076b20acff280e8f5b70afdcdc52ed8920f10d54452"
+    },
+    {
+      "file_id": "DS-0024-V0001-F0016",
+      "path": "v0.2.3/RTS_Data/SourceData/storage.csv",
+      "size_bytes": 1313,
+      "sha256": "cc55c4b02f7595ab77399075c721e31da748f29482c7d78319c4f1530bf4b82c"
+    },
+    {
+      "file_id": "DS-0024-V0001-F0017",
+      "path": "v0.2.3/RTS_Data/SourceData/timeseries_pointers.csv",
+      "size_bytes": 27251,
+      "sha256": "0854ba0c63d4973e8818c91c2328869e379bb0140520d4586f4ffddf387aca0d"
+    }
+  ]
+}
